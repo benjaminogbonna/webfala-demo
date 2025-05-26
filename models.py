@@ -4,6 +4,3 @@ def add(x, y):
 
 def square(x):
 	return x*x
-
-def divide(x, y):
-	return x/y
