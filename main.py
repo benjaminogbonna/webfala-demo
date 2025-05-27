@@ -6,4 +6,5 @@ def square(x):
 	return x*x
 
 def divide(x, y):
+	# a divide function
 	return x/y
